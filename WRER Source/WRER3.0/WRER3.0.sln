@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WRER3.0", "WRER3.0\WRER3.0.csproj", "{574ABEE8-F65C-4705-8708-1DA56A73E4F8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WRER_Installer", "WRER_Installer\WRER_Installer.vdproj", "{F05790B2-62AE-4576-AAAD-A3D784274175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574ABEE8-F65C-4705-8708-1DA56A73E4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574ABEE8-F65C-4705-8708-1DA56A73E4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574ABEE8-F65C-4705-8708-1DA56A73E4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574ABEE8-F65C-4705-8708-1DA56A73E4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05790B2-62AE-4576-AAAD-A3D784274175}.Debug|Any CPU.ActiveCfg = Debug
+		{F05790B2-62AE-4576-AAAD-A3D784274175}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9FAFDBC-F99A-47D8-BB11-40F181632B03}
+	EndGlobalSection
+EndGlobal

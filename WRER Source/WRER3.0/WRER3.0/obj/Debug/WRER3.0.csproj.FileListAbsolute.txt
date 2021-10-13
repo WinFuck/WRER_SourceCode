@@ -1,0 +1,10 @@
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\bin\Debug\WRER3.0.exe.config
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\bin\Debug\WRER3.0.exe
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\bin\Debug\WRER3.0.pdb
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\WRER3._0.Form1.resources
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\WRER3.0.csproj.GenerateResource.cache
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\WRER3.0.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\WRER3.0.exe
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\WRER3.0.pdb
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\WRER3._0.PCReboot.resources
+C:\Users\mateusz\source\repos\WRER3.0\WRER3.0\obj\Debug\Reseter.Properties.Resources.resources
