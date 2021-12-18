@@ -1,1 +1,1 @@
-# Kod zródłowy Windows Registry Entries Reseter version 3.0
+# Kod zródłowy Windows Registry Entries Reseter
